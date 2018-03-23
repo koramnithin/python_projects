@@ -1,0 +1,23 @@
+#csv_data {
+    display: none;
+}
+
+.selected {
+    background-color: #acbad5
+}
+
+.dropdown-toggle>i {
+    padding-left: 10px;
+}
+
+.dropdown-toggle::after {
+    display: none
+}
+
+.columns-select p {
+    margin: 0px;
+}
+
+.column-select {
+    margin-bottom: 10px;
+}
